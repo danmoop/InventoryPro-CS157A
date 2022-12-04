@@ -16,6 +16,7 @@ The database is currently deployed online and can be accessed to test queries.
 </ul>
 
 <ol>
+<li> When <b>Enter password:</b> is displayed, enter <b>udTMD3cfn644djngCbpW</b> </li>
 <li> Once connected, type <b>"use bfatepgobu3i45q7vmwl;"</b> </li>
 <li> Once switched to the project database, type <b>"show tables;"</b> </li>
 <li> All tables should be displayed and queries can be performed </li>
